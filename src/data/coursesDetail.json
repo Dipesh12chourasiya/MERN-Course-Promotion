@@ -1,0 +1,85 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "HTML/CSS",
+        "slug": "html-css",
+        "description": "The foundation of web development. Learn how to structure and style your web applications.",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aHRtbCUyMGNzc3xlbnwwfHwwfHx8MA%3D%3D",
+        "isFeatured": true
+      },
+      {
+        "id": 2,
+        "title": "JavaScript",
+        "slug": "javascript",
+        "description": "The scripting language that powers web applications. Learn how to create dynamic and interactive features.",
+        "imageUrl": "https://media.istockphoto.com/id/1413514709/photo/stylized-3d-javascript-icon-side-view.webp?b=1&s=170667a&w=0&k=20&c=W9qDkgzzlQzhNtr2thu2HXjhiIheZhoyRQo3PwbRr5M=",
+        "isFeatured": true
+      },
+      {
+        "id": 3,
+        "title": "Mongo DB",
+        "slug": "mongodb",
+        "description": "A NoSQL database perfect for storing flexible, document-oriented data. Ideal for modern web applications.",
+        "imageUrl": "https://media.istockphoto.com/id/2152687884/photo/double-exposure-of-database-word-sign-with-finger-clicks-on-a-digital-tablet-on-background.webp?b=1&s=170667a&w=0&k=20&c=YdSMHYtAGou1GGayKbebqnvIRRTD3eQB2YGuHk7uRrU=",
+        "isFeatured": true
+      },
+      {
+        "id": 4,
+        "title": "Node.js",
+        "slug": "node",
+        "description": "JavaScript runtime environment that allows you to run JavaScript code outside of the browser. Build scalable and efficient web servers.",
+        "imageUrl": "https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.webp?b=1&s=170667a&w=0&k=20&c=g8c2eNT4uAWqE-4dVqpn0bzFhjv-I1cKUeWpkxmP-Xk=",
+        "isFeatured": true
+      },
+      {
+        "id": 5,
+        "title": "Express.js",
+        "slug": "express",
+        "description": "A popular web framework built on top of Node.js. Simplify the process of creating web applications and APIs.",
+        "imageUrl": "https://media.istockphoto.com/id/1322205545/photo/digitally-enhanced-shot-of-an-unrecognizable-businessmans-hands-on-a-laptop-keyboard.webp?b=1&s=170667a&w=0&k=20&c=YzIJxeKD37fkrONyR4i0hv-rxTwIg7y77d1gLWKkq5s=",
+        "isFeatured": true
+      },
+      {
+        "id": 6,
+        "title": "React",
+        "slug": "react",
+        "description": "A powerful JavaScript library for building user interfaces. Create dynamic and interactive web experiences.",
+        "imageUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UmVhY3QlMjBqc3xlbnwwfHwwfHx8MA%3D%3D",
+        "isFeatured": true
+      },
+      {
+        "id": 7,
+        "title": "React Redux",
+        "slug": "react-redux",
+        "description": "A state management library for React applications. Manage application state effectively across components.",
+        "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8amF2YXNjcmlwdCUyMGNvZGV8ZW58MHx8MHx8fDA%3D",
+        "isFeatured": true
+      },
+      {
+        "id": 8,
+        "title": "React Query",
+        "slug": "react-query",
+        "description": "A library for managing data fetching and caching in React applications. Simplify data fetching logic and improve performance.",
+        "imageUrl": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFJlYWN0JTIwanN8ZW58MHx8MHx8fDA%3D",
+        "isFeatured": true
+      },
+      {
+        "id": 9,
+        "title": "Next.js",
+        "slug": "next",
+        "description": "A React framework for building server-rendered and statically generated web applications. Improve performance and SEO.",
+        "imageUrl": "https://images.unsplash.com/photo-1592609931041-40265b692757?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fE5leHQlMjBKc3xlbnwwfHwwfHx8MA%3D%3D",
+        "isFeatured": true
+      },
+      {
+        "id": 10,
+        "title": "TypeScript",
+        "slug": "typescript",
+        "description": "A superset of JavaScript that adds optional static typing. Improve code maintainability and catch errors early.",
+        "imageUrl": "https://images.unsplash.com/photo-1548668486-b554d9d443d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFR8ZW58MHx8MHx8fDA%3D",
+        "isFeatured": false
+      }
+    ]
+  }
+  
